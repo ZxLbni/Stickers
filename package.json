@@ -1,0 +1,14 @@
+{
+  "name": "telegram-sticker-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot to download and convert stickers.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.56.0",
+    "sharp": "^0.29.3"
+  }
+}
