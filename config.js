@@ -1,3 +1,3 @@
 module.exports = {
-    token: '7551784562:AAFQBxAN_kOkQatqfbJX_780YCyz6ux_Op4' // Replace with your bot's token
+    token: '8018057302:AAEgq6gIUDsPyc9BBVgssDUkPmYewtTH2FM' // Replace with your bot's token
 };
